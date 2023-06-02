@@ -29,9 +29,12 @@ Users should be able to:
 - **Bonus**: Toggle the mobile menu (requires some JavaScript)
 
 ### Screenshot
+-desktop view-
+![image](https://github.com/anshul1230/news-page-design/assets/114673403/a1ff1aec-49da-4241-860e-1e1b08055a97)
 
-desktop view-
-![image](https://github.com/anshul1230/news-page-design/assets/114673403/5a803375-b210-45ee-b7a1-2db5997638e7)
+
+-mobile view-
+![image](https://github.com/anshul1230/news-page-design/assets/114673403/636bde8c-0a67-40aa-9283-25ecfee3c76b)
 
 
 ### Links
