@@ -30,11 +30,13 @@ Users should be able to:
 
 ### Screenshot
 -desktop view-
-![image](https://github.com/anshul1230/news-page-design/assets/114673403/a1ff1aec-49da-4241-860e-1e1b08055a97)
+![image](https://github.com/anshul1230/news-page-design/assets/114673403/25856ad0-eb29-4ae9-81e2-cc3477931de4)
 
 
 -mobile view-
-![image](https://github.com/anshul1230/news-page-design/assets/114673403/636bde8c-0a67-40aa-9283-25ecfee3c76b)
+![image](https://github.com/anshul1230/news-page-design/assets/114673403/85664fb0-07a3-471c-bd13-e469a8989764)
+
+
 
 
 ### Links
