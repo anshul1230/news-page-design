@@ -31,6 +31,8 @@ Users should be able to:
 ### Screenshot
 
 desktop view-
+![image](https://github.com/anshul1230/news-page-design/assets/114673403/5a803375-b210-45ee-b7a1-2db5997638e7)
+
 
 ### Links
 
